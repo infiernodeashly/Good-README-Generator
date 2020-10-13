@@ -1,8 +1,8 @@
-# Test
+# ReadMe Generator
     
 ## Desription
         
-test
+Generates a ReadMe file
 
 ## Table of Contents
 
@@ -11,32 +11,37 @@ test
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
+* [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ## Install
 
-test
+npm i inquire
 
 ## Usage
 
-test
+to generate a ReadMe file
 
 ## License
 
-Community License
+MIT License
 
 ## Contributing
 
-test
+Ashly
+
+##Resources
+
+https://github.com/connietran-dev/readme-generator/blob/master/README.md, https://github.com/SaraMunir/GoodReadMeGenerator
 
 ## Tests
 
-test
+AS a user, I will answer prompted questions that will be added to a README file created by the answers.
 
 ## Questions
 
 For more information:
 
-Visit: [https://test.github.io](https://test.github.io)
-Email: test
+Visit: [https://infiernodeashly.github.io](https://infiernodeashly.github.io)
+Email: infiernodeashly@Gmail.com

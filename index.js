@@ -32,6 +32,11 @@ const questions = [
         message: "Who will be contributing to the project: ",
     },
     {
+        name: "resources",
+        type: "input",
+        message: "Resources for Code: ",
+    },
+    {
         name: "tests",
         type: "input",
         message: "Provide some test cases: ",
@@ -70,6 +75,7 @@ ${data.description}
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
+* [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -88,6 +94,10 @@ ${data.license}
 ## Contributing
 
 ${data.contributors}
+
+##Resources
+
+${data.resources}
 
 ## Tests
 
