@@ -114,7 +114,7 @@ async function init() {
     try {
         const answers = await inquirer.prompt(questions);
 
-        writeToFile("ReadMeTemp.md", answers)
+        writeToFile("README.md", answers)
         console.log(answers);
     } catch (error) {
         throw Error(error);
