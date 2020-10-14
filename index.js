@@ -42,7 +42,7 @@ const questions = [
     {
         name: "contributors",
         type: "input",
-        message: "Who will be contributing to the project: ",
+        message: "Guidelines for possible Contributors: ",
     },
     {
         name: "resources",
