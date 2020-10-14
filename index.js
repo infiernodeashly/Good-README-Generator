@@ -10,16 +10,29 @@ const questions = [
         name: "title",
         type: "input",
         message: "Project Title: ",
+        validate: function (answer) {
+            if (answer.length < 1) {
+                return console.log("A valid Project Title is required.");
+            }
+            return true;
+        }
     },
     {
         name: "description",
         type: "input",
         message: "Project Description: ",
+        validate: function (answer) {
+            if (answer.length < 1) {
+                return console.log("A valid Project Title is required.");
+            }
+            return true;
+        }
     },
     {
         name: "install",
         type: "input",
         message: "Enter installation instructions: ",
+        
     },
     {
         name: "usage",
@@ -45,7 +58,7 @@ const questions = [
         name: "license",
         type: "list",
         message: "Choose a license type",
-        choices: ["Community License", "MIT License", "GNU GPL"],
+        choices: ['Apache License 2.0', 'Boost Software License 1.0', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'MIT License', 'Mozilla Public License 2.0', 'The Unlicense'],
     },
     {
         name: "gitHubUserName",
@@ -56,6 +69,7 @@ const questions = [
         name: "email",
         type: "input",
         message: "Enter email address: ",
+        
     },
 
 ];
@@ -74,7 +88,7 @@ ${data.description}
 * [Installation](#install)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
+* [Contributors](#contributors)
 * [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -91,11 +105,11 @@ ${data.usage}
 
 ${data.license}
 
-## Contributing
+## Contributors
 
 ${data.contributors}
 
-##Resources
+## Resources
 
 ${data.resources}
 

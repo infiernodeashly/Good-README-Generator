@@ -1,8 +1,8 @@
-# ReadMe Generator
+# adsfewf
     
 ## Desription
         
-Generates a ReadMe file
+asdf
 
 ## Table of Contents
 
@@ -10,38 +10,38 @@ Generates a ReadMe file
 * [Installation](#install)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
+* [Contributors](#contributors)
 * [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ## Install
 
-npm i inquire
+
 
 ## Usage
 
-to generate a ReadMe file
+asdf
 
 ## License
 
-MIT License
+Apache License 2.0
 
-## Contributing
+## Contributors
 
-Ashly
 
-##Resources
 
-https://github.com/connietran-dev/readme-generator/blob/master/README.md, https://github.com/SaraMunir/GoodReadMeGenerator
+## Resources
+
+
 
 ## Tests
 
-AS a user, I will answer prompted questions that will be added to a README file created by the answers.
+
 
 ## Questions
 
 For more information:
 
-Visit: [https://infiernodeashly.github.io](https://infiernodeashly.github.io)
-Email: infiernodeashly@Gmail.com
+Visit: [https://adsf.github.io](https://adsf.github.io)
+Email: 
