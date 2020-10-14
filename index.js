@@ -74,9 +74,23 @@ const questions = [
 
 ];
 
+// function licenseBadge () {
+//     if (data.license = 'Apache License 2.0')
+//     return ([![License]https://img.shields.io/badge/license-Apache%202.0-brightgreen]);
+// }
+
+
 // function to write README file
 async function writeToFile(fileName, data) {
     let readMeTemplate = `# ${data.title}
+
+## License Badge
+
+   if(questions.license.choices = 'Apache License 2.0') {
+    [![License]https://img.shields.io/badge/license-Apache%202.0-brightgreen]
+   }
+  
+
     
 ## Desription
         
