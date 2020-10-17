@@ -94,10 +94,7 @@ async function writeToFile(fileName, data) {
     let readMeTemplate = `# ${data.title}
 
 
-## Badge
-
-${data.badges}
-    
+  
 ## Description 
         
 ${data.description}
