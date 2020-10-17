@@ -28,7 +28,7 @@ npm i, npm i inquire, npm i util
 
 Automatically generate ReadMe file based off of user answer to questions.
 
-[![Watch the video] (https://drive.google.com/file/d/1pp2qTsRui49lp_O9Zz5wfy_wYjFVrDQO/preview" width="640" height="480")
+[![Watch the video] (https://drive.google.com/file/d/1pp2qTsRui49lp_O9Zz5wfy_wYjFVrDQO/preview")](https://drive.google.com/file/d/1pp2qTsRui49lp_O9Zz5wfy_wYjFVrDQO/preview")
 
 ## License
 
