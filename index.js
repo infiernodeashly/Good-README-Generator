@@ -159,7 +159,7 @@ async function init() {
         // const answers = the user's responses. 
         const answers = await inquirer.prompt(questions);
         // write user's responses to README.md.
-        writeToFile("README.md", answers)
+        writeToFile("TestReadMe.md", answers)
         console.log(answers);
         // catch any erros
     } catch (error) {
