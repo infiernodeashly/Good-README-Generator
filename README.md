@@ -18,7 +18,7 @@ Generate ReadMe file
 
 ## Install
 
-1. With the index.js file open, open the integrated terminal and type npm init to develop the JSON package. 2. Type npm i axios to install axios. 3. Type npm i inquirer to install inquirer. 
+1. With the index.js file open, open the integrated terminal and type npm init to develop the JSON package. 2. Type npm i to install most packages. 3. Type npm i inquirer to install inquirer. 4. Type npm util to install util 
 
 ## Usage
 
