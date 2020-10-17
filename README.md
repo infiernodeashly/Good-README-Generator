@@ -1,9 +1,5 @@
 # ReadMe Generator
 
-
-## Badge
-
-undefined
     
 ## Description 
         
@@ -22,12 +18,13 @@ Generate ReadMe file
 
 ## Install
 
-npm i, npm i inquire, npm i util
+1. With the index.js file open, open the integrated terminal and type npm init to develop the JSON package. 2. Type npm i axios to install axios. 3. Type npm i inquirer to install inquirer. 
 
 ## Usage
 
-Automatically generate ReadMe file based off of user answer to questions.
+With index.js open in VS type node index.js. Type answers to questions when prompted. Select the license from a list of options. Once complete, the README file will be generated with the answers to all of the questions the user was prompted to answers, complete with a Table of Contents. This way, developers can quickly and easily build ReadMe files. .
 
+Video:
 
 [![Watch the video] https://youtu.be/W8StPDDQlic
 
@@ -38,7 +35,7 @@ GNU GPLv3
 
 ## Contributors
 
-N/A
+For future contributors, please be sure to explain how your files are connected in the ReadMe, if you add any additional sources. 
 
 ## Resources
 
