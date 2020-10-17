@@ -1,16 +1,13 @@
-# adsfe
+# ReadMe Generator
 
-## License Badge
 
-   if(questions.license.choices = 'Apache License 2.0') {
-    [![License]https://img.shields.io/badge/license-Apache%202.0-brightgreen]
-   }
-  
+## Badge
 
+undefined
     
-## Desription
+## Description 
         
-acaf
+Generate ReadMe file
 
 ## Table of Contents
 
@@ -25,31 +22,31 @@ acaf
 
 ## Install
 
-
+npm i, npm i inquire, npm i util
 
 ## Usage
 
-
+Automatically generate ReadMe file based off of user answer to questions.
 
 ## License
 
-Apache License 2.0
+GNU GPLv3
 
 ## Contributors
 
-
+N/A
 
 ## Resources
 
-
+https://github.com/SaraMunir/GoodReadMeGenerator, https://github.com/connietran-dev/readme-generator,  https://github.com/talysh/readmegenerator, Code Quiz homework, Class Activity ‘15-Stu_Inquirer-Users’
 
 ## Tests
 
-
+N/A
 
 ## Questions
 
 For more information:
 
-Visit: [https://.github.io](https://.github.io)
-Email: 
+Visit: [https://infiernodeashly.github.io](https://infiernodeashly.github.io)
+Email: infiernodeashly@gmail.com
