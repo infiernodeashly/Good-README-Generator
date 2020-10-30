@@ -120,7 +120,7 @@ ${data.usage}
 
 ## License ##Badge 
 
-${data.license}
+<img src="http://img.shields.io/badge/license-${data.license}-blue">
 
 ## Contributors
 
