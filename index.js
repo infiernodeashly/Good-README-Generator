@@ -70,7 +70,7 @@ const questions = [
         message: "Choose a license type",
         choices: ['Apache License 2.0', 'Boost Software License 1.0', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'MIT License', 'Mozilla Public License 2.0', 'The Unlicense'],
         var img1 = document.createElement("img");
-            img1.src = `<https://img.shields.io/badge/license-${choices}-blue`;
+            img1.src = `<https://img.shields.io/badge/license-${data.choices}-blue`;
        
     },
 
