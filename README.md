@@ -10,8 +10,8 @@ Generate ReadMe file
 * [Description](#description)
 * [Installation](#install)
 * [Usage](#usage)
-* [License](#license) <img src="https://img.shields.io/badge/license-GNU%20GPLv3-blue">
-* [Contributors](#contributors)  <img src="https://img.shields.io/badge/license-"+${license.data.choices}+"-blue">
+* [License](#license)  <img src="http://img.shields.io/badge/license-GNU%GPLv3-blue">
+* [Contributors](#contributors)  
 * [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -29,7 +29,7 @@ Video:
 [![Watch the video] (https://youtu.be/W8StPDDQlic)
 
 
-## License
+## License <img src="http://img.shields.io/badge/license-GNU%GPLv3-blue">
 
 GNU GPLv3
 

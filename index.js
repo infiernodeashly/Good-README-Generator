@@ -103,7 +103,7 @@ ${data.description}
 * [Description](#description)
 * [Installation](#install)
 * [Usage](#usage)
-* [License](#license)
+* [License](#license) <img src="http://img.shields.io/badge/license-${data.license}-blue">
 * [Contributors](#contributors)
 * [Resources](#resources)
 * [Tests](#tests)

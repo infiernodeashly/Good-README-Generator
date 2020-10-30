@@ -10,7 +10,7 @@ Generate ReadMe file
 * [Description](#description)
 * [Installation](#install)
 * [Usage](#usage)
-* [License](#license)
+* [License](#license) <img src="http://img.shields.io/badge/license-The Unlicense-blue">
 * [Contributors](#contributors)
 * [Resources](#resources)
 * [Tests](#tests)
@@ -22,7 +22,9 @@ Generate ReadMe file
 
 ## Usage
 
-With index.js open in VS type node index.js. Type answers to questions when prompted. Select the license from a list of options. Once complete, the README file will be generated with the answers to all of the questions the user was prompted to answers, complete with a Table of Contents. This way, developers can quickly and easily build ReadMe files. .
+With index.js open in VS type node index.js. Type answers to questions when prompted. Select the license from a list of options. Once complete, the README file will be generated with the answers to all of the questions the user was prompted to answers, complete with a Table of Contents. This way, developers can quickly and easily build ReadMe files. 
+
+[![Watch the video] (https://youtu.be/W8StPDDQlic)
 
 ## License <img src="http://img.shields.io/badge/license-The Unlicense-blue">
 
@@ -32,7 +34,7 @@ The Unlicense
 
 ## Contributors
 
-[![Watch the video] (https://youtu.be/W8StPDDQlic)For future contributors, please be sure to explain how your files are connected in the ReadMe, if you add any additional sources. 
+For future contributors, please be sure to explain how your files are connected in the ReadMe, if you add any additional sources. 
 
 ## Resources
 
