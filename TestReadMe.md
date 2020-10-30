@@ -1,10 +1,6 @@
 # ReadMe Generator
 
-
-## Badge
-
-undefined
-    
+  
 ## Description 
         
 Generate ReadMe file
@@ -22,21 +18,21 @@ Generate ReadMe file
 
 ## Install
 
-npm i, npm i inquire, npm i util
+1. With the index.js file open, open the integrated terminal and type npm init to develop the JSON package. 2. Type npm i to install most packages. 3. Type npm i inquirer to install inquirer. 4. Type npm util to install util 
 
 ## Usage
 
-Automatically generate ReadMe file based off of user answer to questions.
+With index.js open in VS type node index.js. Type answers to questions when prompted. Select the license from a list of options. Once complete, the README file will be generated with the answers to all of the questions the user was prompted to answers, complete with a Table of Contents. This way, developers can quickly and easily build ReadMe files. .
 
-![Gif demo of README-generator](assets/ReadMeGeneratorVid.webm)
+## License <img src="http://img.shields.io/badge/license-The Unlicense-blue">
 
-## License
+The Unlicense
 
-GNU GPLv3
+
 
 ## Contributors
 
-N/A
+[![Watch the video] (https://youtu.be/W8StPDDQlic)For future contributors, please be sure to explain how your files are connected in the ReadMe, if you add any additional sources. 
 
 ## Resources
 
