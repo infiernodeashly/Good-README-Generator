@@ -69,7 +69,8 @@ const questions = [
         type: "list",
         message: "Choose a license type",
         choices: ['Apache License 2.0', 'Boost Software License 1.0', 'GNU AGPLv3', 'GNU GPLv3', 'GNU LGPLv3', 'MIT License', 'Mozilla Public License 2.0', 'The Unlicense'],
-        
+        var img1 = document.createElement("img");
+            img1.src = `<https://img.shields.io/badge/license-${choices}-blue`;
        
     },
 
@@ -86,8 +87,10 @@ const questions = [
         message: "Enter email address: ",
         
     },
+    
+    ];
 
-];
+    const badge = (img src=`https://img.shields.io/badge/license-${data.license}-blue`); 
 
 // function to write README file
 async function writeToFile(fileName, data) {
@@ -118,7 +121,7 @@ ${data.install}
 
 ${data.usage}
 
-## License
+## License ##Badge ${data.badge}
 
 ${data.license}
 
