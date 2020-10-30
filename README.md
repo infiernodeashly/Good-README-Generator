@@ -10,7 +10,7 @@ Generate ReadMe file
 * [Description](#description)
 * [Installation](#install)
 * [Usage](#usage)
-* [License](#license)  <img src="http://img.shields.io/badge/license-GNU%GPLv3-blue">
+* [License](#license)  
 * [Contributors](#contributors)  
 * [Resources](#resources)
 * [Tests](#tests)
