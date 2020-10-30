@@ -88,8 +88,7 @@ const questions = [
     
     ];
 
-    const badge = (img src=`https://img.shields.io/badge/license-${data.license}-blue`); 
-
+   
 // function to write README file
 async function writeToFile(fileName, data) {
     let readMeTemplate = `# ${data.title}
@@ -156,7 +155,7 @@ async function init() {
         // const answers = the user's responses. 
         const answers = await inquirer.prompt(questions);
         // write user's responses to README.md.
-        writeToFile("TestReadMe.md", answers)
+        writeToFile("TestReadMe2.md", answers)
         console.log(answers);
         // catch any erros
     } catch (error) {
