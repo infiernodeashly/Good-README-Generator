@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-    
+  
 ## Description 
         
 Generate ReadMe file
@@ -10,8 +10,8 @@ Generate ReadMe file
 * [Description](#description)
 * [Installation](#install)
 * [Usage](#usage)
-* [License](#license)  
-* [Contributors](#contributors)  
+* [License](#license) <img src="http://img.shields.io/badge/license-Apache License 2.0-blue">
+* [Contributors](#contributors)
 * [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -22,16 +22,13 @@ Generate ReadMe file
 
 ## Usage
 
-With index.js open in VS type node index.js. Type answers to questions when prompted. Select the license from a list of options. Once complete, the README file will be generated with the answers to all of the questions the user was prompted to answers, complete with a Table of Contents. This way, developers can quickly and easily build ReadMe files. 
+With index.js open in VS type node index.js. Type answers to questions when prompted. Select the license from a list of options. Once complete, the README file will be generated with the answers to all of the questions the user was prompted to answers, complete with a Table of Contents. This way, developers can quickly and easily build ReadMe files. [![Watch the video] (https://youtu.be/W8StPDDQlic)
 
-Video:
+## License <img src="http://img.shields.io/badge/license-Apache License 2.0-blue">
 
-[![Watch the video] (https://youtu.be/W8StPDDQlic)
+Apache License 2.0
 
 
-## License <img src="http://img.shields.io/badge/license-Apache%2.0-blue">
-
-Apache 2.0
 
 ## Contributors
 
