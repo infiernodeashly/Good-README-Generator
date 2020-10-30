@@ -11,7 +11,7 @@ Generate ReadMe file
 * [Installation](#install)
 * [Usage](#usage)
 * [License](#license) <img src="https://img.shields.io/badge/license-GNU%20GPLv3-blue">
-* [Contributors](#contributors)  <img src="https://img.shields.io/badge/license-${license}-blue">
+* [Contributors](#contributors)  <img src="https://img.shields.io/badge/license-${data.license}-blue">
 * [Resources](#resources)
 * [Tests](#tests)
 * [Questions](#questions)
