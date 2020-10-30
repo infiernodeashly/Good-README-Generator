@@ -26,7 +26,7 @@ With index.js open in VS type node index.js. Type answers to questions when prom
 
 Video:
 
-[![Watch the video] https://youtu.be/W8StPDDQlic
+[![Watch the video] [https://youtu.be/W8StPDDQlic] (https://youtu.be/W8StPDDQlic)
 
 
 ## License
