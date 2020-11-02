@@ -1,5 +1,7 @@
 # ReadMe Generator
 
+Repository: https://github.com/infiernodeashly/Good-README-Generator
+URL: https://infiernodeashly.github.io/Good-README-Generator/#README.md
   
 ## Description 
         
